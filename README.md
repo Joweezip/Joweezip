@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Joel Cardenas
-- 👀 I’m interested in Sports,Tech, Interior Design and Cars
-- 🌱 I’m currently learning Javascript, C and React 
-- 💞️ I’m looking to collaborate on projects and submiting things on github 
-- 📫 I have instagram if you want to follow me is @joel_cardenasu
-- ⚡ Fun fact: I start coding at the age of 12 
 
--Hi!, my name is Joel Cardenas, i am a Jr Frontend Developer who is passionate about 4 things: Cars, Interior Design, Technology and coffee. 
+
+
+-Hi! 👋 , my name is Joel Cardenas, i am a Jr Frontend Developer who is passionate about 4 things: Cars, Interior Design, Technology and coffee. 
 
 A few words about me:
 I start coding at 12 but i dont really enjoy do it so i leave it saying that it waa too hard for me ( at least i learn the basics),
